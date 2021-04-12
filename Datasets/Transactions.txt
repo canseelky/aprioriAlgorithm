@@ -1,0 +1,16 @@
+cheese,water,milk,umbrella,diaper,beer,detergent
+umbrella,diaper,cheese,detergent
+water,umbrella,detergent,beer,cheese,milk
+milk,water,bread
+bread,umbrella,cheese
+diaper,water,cheese,umbrella
+diaper,umbrella
+beer,cheese,water,milk
+beer,detergent,milk
+bread,detergent,water,beer,umbrella
+beer,milk,water,cheese
+bread,beer,water,umbrella
+milk,diaper,beer,water
+water
+milk,umbrella,detergent,cheese
+cheese,diaper,bread
